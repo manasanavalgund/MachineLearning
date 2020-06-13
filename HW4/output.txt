@@ -1,0 +1,2 @@
+Accuracy on test dataset : 88.59649122807018%
+Error rate on test dataset : 11.403508771929824%
